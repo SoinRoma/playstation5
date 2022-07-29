@@ -1,11 +1,8 @@
 <h1 align="center">Playstation 5</h1>
 
 ## Описание
-Одностраничный сайт - PS5.
-На сайте реализован:
-+ Минималистический дизайн
-+ Плагин для видео
-+ Эффект параллакса
+Промостраница для компании PS5.
+Данный сайт состоит из несколько секций. На сайте реализован эффект паралакса, и видео на заднем фоне.
 
 ### Используемые технологии
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
@@ -15,9 +12,4 @@
 ### Используемые плагины/библиотеки
 ![AOSjS](https://img.shields.io/badge/-AocJs-black?style=flat-square&logo=aos.js&logoColor=aos.js)
 ![RellaxJs](https://img.shields.io/badge/-RellaxJs-black?style=flat-square&logo=rellax.js&logoColor=rellax.js)
-
-
-### Запуск проекта
-```
-Разархивировать проект и запустить в IDE
-```
+![Vidbg](https://img.shields.io/badge/-Vidbg-black?style=flat-square&logo=vidbg&logoColor=vidbg)
